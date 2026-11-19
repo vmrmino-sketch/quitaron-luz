@@ -1,0 +1,18 @@
+export const PastelColors = {
+  fondo: '#FAF7FF',
+  tarjeta: '#FFFFFF',
+  textoPrincipal: '#242238',
+  textoSecundario: '#524E6E',
+  menta: '#D8F6EE',
+  mentaBorde: '#8CD8C4',
+  durazno: '#FFE8D6',
+  duraznoBorde: '#F4BA8C',
+  lavanda: '#EAE2FF',
+  lavandaBorde: '#B8A4F5',
+  rosa: '#FFE5EC',
+  rosaBorde: '#F3B6C8',
+  pendienteFondo: '#FFF3CD',
+  pendienteBorde: '#F5C96B',
+  verificadoFondo: '#D4F7DC',
+  verificadoBorde: '#7ED696',
+};
